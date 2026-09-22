@@ -16,7 +16,11 @@
 [![Vite](https://img.shields.io/badge/Vite-6.x-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 
 </div>
+## 🌐 Live Demo
 
+- *Frontend:* https://avdn.vercel.app
+- *Backend API:* https://aavedan-backend-g7nc.onrender.com
+- *AI Service:* https://aavedan-ai-282v.onrender.com
 ---
 
 ## 🌟 What is Aavedan Setu?
